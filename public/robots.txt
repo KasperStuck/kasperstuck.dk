@@ -1,0 +1,10 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://kasperstuck.dk/sitemap.xml
+
+# Common paths to disallow (adjust as needed)
+# Disallow: /api/
+# Disallow: /admin/

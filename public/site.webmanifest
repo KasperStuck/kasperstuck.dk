@@ -1,0 +1,10 @@
+{
+  "name": "kasperstuck.dk",
+  "short_name": "KS",
+  "description": "Personal website of Kasper Stuck",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": []
+}
