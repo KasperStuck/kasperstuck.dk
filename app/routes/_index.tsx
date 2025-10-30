@@ -46,7 +46,7 @@ export default function Home() {
                       className="block h-16 w-16 origin-left pointer-events-auto"
                     >
                       <img
-                        src="/images/kasper-stuck.jpg"
+                        src="/images/kasper-stuck.webp"
                         alt="Kasper Stück"
                         className="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-16 w-16"
                       />
@@ -213,35 +213,35 @@ export default function Home() {
             <div className="-my-4 flex justify-center gap-5 overflow-hidden py-4 sm:gap-8">
               <div className="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl rotate-2">
                 <img
-                  src="/images/websites/munkstore-mobile.jpg"
+                  src="/images/websites/munkstore-mobile.webp"
                   alt="Munkstore website"
                   className="absolute inset-0 h-full w-full object-cover"
                 />
               </div>
               <div className="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl -rotate-2">
                 <img
-                  src="/images/websites/hunterspoint-mobile.jpg"
+                  src="/images/websites/hunterspoint-mobile.webp"
                   alt="Hunterspoint website"
                   className="absolute inset-0 h-full w-full object-cover"
                 />
               </div>
               <div className="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl rotate-2">
                 <img
-                  src="/images/websites/lydspecialisten-mobile.jpg"
+                  src="/images/websites/lydspecialisten-mobile.webp"
                   alt="Lydspecialisten website"
                   className="absolute inset-0 h-full w-full object-cover"
                 />
               </div>
               <div className="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl rotate-2">
                 <img
-                  src="/images/websites/mollyogmy-mobile.jpg"
+                  src="/images/websites/mollyogmy-mobile.webp"
                   alt="Molly og My website"
                   className="absolute inset-0 h-full w-full object-cover"
                 />
               </div>
               <div className="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl -rotate-2">
                 <img
-                  src="/images/websites/inkpartner-mobile.jpg"
+                  src="/images/websites/inkpartner-mobile.webp"
                   alt="Inkpartner website"
                   className="absolute inset-0 h-full w-full object-cover"
                 />

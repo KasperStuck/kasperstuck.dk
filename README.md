@@ -102,7 +102,7 @@ app/
 
 public/
 └── images/              # Portfolio images
-    ├── kasper-stuck.jpg # Avatar image
+    ├── kasper-stuck.webp # Avatar image
     └── websites/        # Website portfolio screenshots
 ```
 
@@ -280,14 +280,14 @@ Make sure to deploy the output of `npm run build`
 The homepage references the following images that need to be added to the `public/images/` directory:
 
 **Avatar:**
-- `public/images/kasper-stuck.jpg` - Your profile photo (recommended size: 256x256px or larger, square aspect ratio)
+- `public/images/kasper-stuck.webp` - Your profile photo (recommended size: 256x256px or larger, square aspect ratio)
 
 **Website Screenshots:**
-- `public/images/websites/munkstore-mobile.jpg`
-- `public/images/websites/hunterspoint-mobile.jpg`
-- `public/images/websites/lydspecialisten-mobile.jpg`
-- `public/images/websites/mollyogmy-mobile.jpg`
-- `public/images/websites/inkpartner-mobile.jpg`
+- `public/images/websites/munkstore-mobile.webp`
+- `public/images/websites/hunterspoint-mobile.webp`
+- `public/images/websites/lydspecialisten-mobile.webp`
+- `public/images/websites/mollyogmy-mobile.webp`
+- `public/images/websites/inkpartner-mobile.webp`
 
 Recommended format: 9:10 aspect ratio (e.g., 360x400px or 720x800px) for mobile screenshots.
 
